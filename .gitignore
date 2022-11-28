@@ -1,0 +1,17 @@
+# Repos downloaded and Installed
+AdelaiDet/
+
+# model files
+*.pth
+
+# Image directory
+images/
+
+# pycache
+__pycache__/
+
+# image files created
+*.png
+*.jpg
+
+!samples/*
